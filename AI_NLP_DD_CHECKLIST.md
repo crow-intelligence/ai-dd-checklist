@@ -1,4 +1,4 @@
-<a href="https://crowintelligence.org/"><img src="img/crow-intelligence.svg" alt="Crow Intelligence" width="240"></a>
+<img src="img/ai-dd-checklist.svg" alt="AI DD Checklist" width="280">
 
 # AI and NLP technical due diligence checklist
 
@@ -569,3 +569,7 @@ The canonical home of this checklist is the GitHub repository linked from [Crow 
 **Zoltán Varjú** is an NLP engineer and architect with two decades in the field. He co-founded Complytron, a RegTech company applying AI to anti-money-laundering and KYC, which was acquired by SEON in 2023. He is a Manning Publications author on applied NLP and runs one of Hungary's longest-standing technical communities, an NLP meetup with over 2,500 members. His background combines philosophy and linguistics with applied data science, and he writes regularly on AI, cognition, and the practice of building NLP systems.
 
 **Orsolya Putz, PhD** is a cognitive linguist and AI engineer, and an adjunct professor at the Technical University of Budapest (BME). Her doctorate is in cognitive linguistics, and her work joins cognitive science, decision intelligence, and applied AI — particularly the ways language and conceptual framing shape how organisations interpret what AI systems produce. Together with Zoltán, she leads Crow Intelligence's research and advisory work on the hard problems that come before and after the code: specification, evaluation, and interpretation.
+
+---
+
+<a href="https://crowintelligence.org/"><img src="img/crow-intelligence.svg" alt="Crow Intelligence" width="200"></a>

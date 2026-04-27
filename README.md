@@ -1,4 +1,4 @@
-<a href="https://crowintelligence.org/"><img src="img/crow-intelligence.svg" alt="Crow Intelligence" width="240"></a>
+<img src="img/ai-dd-checklist.svg" alt="AI DD Checklist" width="280">
 
 # AI DD Checklist
 
@@ -28,3 +28,7 @@ We are most interested in items the checklist gets wrong, items that have aged b
 ## License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — you may use, adapt, and redistribute (including commercially) with attribution to Crow Intelligence and a link back to this repository.
+
+---
+
+<a href="https://crowintelligence.org/"><img src="img/crow-intelligence.svg" alt="Crow Intelligence" width="200"></a>
